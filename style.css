@@ -50,6 +50,7 @@ body{
 .social-container{
     margin-top: 25px;
     text-align: center;
+    z-index: 30;
 }
 
 .social-container i{
